@@ -57,3 +57,7 @@ This project implements the key concept of a **self-sustained, clock-less voltag
 **Project Report:**
 
 [PMIC Project Final Presentation.pdf](https://github.com/user-attachments/files/20206251/PMIC.Project.Final.Presentation.pdf)
+
+**Project Paper:**
+
+[PMIC_Project_Report.pdf](https://github.com/user-attachments/files/20216700/PMIC_Project_Report.pdf)
